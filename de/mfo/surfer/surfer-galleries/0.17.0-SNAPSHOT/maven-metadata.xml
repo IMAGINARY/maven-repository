@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.mfo.surfer</groupId>
+  <artifactId>surfer-galleries</artifactId>
+  <version>0.17.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20171124.222754</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20171124222754</lastUpdated>
+  </versioning>
+</metadata>
